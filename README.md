@@ -3,6 +3,11 @@
 
 ---
 
+## 🚀 **About Me**
+I am a **Data Engineer** with expertise in building scalable data pipelines, designing data architectures, and implementing machine learning solutions. I am passionate about leveraging data to solve real-world problems and continuously learning new technologies to stay ahead in the field.
+
+---
+
 ## 🛠️ **Technologies & Tools**
 
 ### **Programming Languages**
@@ -62,7 +67,7 @@
 
 ---
 
-## 📂 **Projects**
+## 📂 **Featured Projects**
 
 ### **Intelligent Chatbot with LLAMA 2**
 - Developed an intelligent chatbot using LLAMA 2 models.
